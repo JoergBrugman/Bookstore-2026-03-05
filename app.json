@@ -1,0 +1,40 @@
+{
+  "id": "e08b0233-2914-49ac-a5f8-fadc71a472fb",
+  "name": "Bookstore",
+  "publisher": "get&use Academy GmbH",
+  "version": "26.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "c512d720-63b9-4b26-b062-a0c09b4ed322",
+      "name": "Company Hub",
+      "version": "27.4.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "15.0",
+  "features": [ 
+    "NoImplicitWith"],
+  "resourceFolders": ["Demo/Resources/.resources"]
+  
+}
