@@ -1,14 +1,14 @@
 namespace GetUse.Academy.Bookstore.Interface;
 
-codeunit 50110 "Book Type Default Impl."
+codeunit 50110 "Book Type Default Impl." implements "Book Type Process"
 {
     procedure StartDeployBook()
     begin
-        Message('Aus Lager entnehmen');
+        Message('Buch ist Type None, kann nichr behandelt werden');
     end;
 
     procedure StartDeliverBook()
     begin
-        Message('Mit DPD versenden');
+        Message('Buch ist Type None, kann nichr behandelt werden');
     end;
 }

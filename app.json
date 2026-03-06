@@ -35,6 +35,9 @@
   "runtime": "15.0",
   "features": [ 
     "NoImplicitWith"],
-  "resourceFolders": ["Demo/Resources/.resources"]
-  
+  "resourceFolders": ["Demo/Resources/.resources"],
+  "source": {
+    "repositoryUrl": "https://github.com/JoergBrugman/Bookstore-2026-03-05.git",
+    "commit": "9722a7d169f13192179f40390791a2f93f40b112"
+  }
 }
